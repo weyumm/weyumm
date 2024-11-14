@@ -10,6 +10,10 @@
 - 😄 Pronouns: Nope
 - ⚡ Fun fact: Nope
 
+## 基本信息👤    
+大模型应用全栈开发&MATLAB数学建模&Python数据分析&简易前端
+
+## 我的项目📚
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
       
@@ -17,6 +21,20 @@
 <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%;"> 
 </div>
 
+## 技术栈🛠️
+<p align="left"> 
+      &emsp;&emsp;&emsp;
+      <!-- 前端 -->
+      <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
+      <!-- 后端和数据库 -->
+      <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
+</p>
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
