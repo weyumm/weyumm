@@ -13,6 +13,8 @@
 ## 基本信息👤    
 大模型应用全栈开发&MATLAB数学建模&Python数据分析&简易前端
 
+![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
+
 ## 我的项目📚
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
@@ -40,5 +42,3 @@
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
