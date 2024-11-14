@@ -8,7 +8,24 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>    <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=5"/>
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
+      <img
+        align=center
+        src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+        style="margin: 0 5px"
+      /><img
+        align=center
+        src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+        style="margin: 0 5px"
+      />
+      <img
+        align=center
+        src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+        style="margin: 0 5px"
+      />
+    </div>
+
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=5&layout=compact"/>
 <!---
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
