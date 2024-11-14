@@ -1,6 +1,4 @@
-<a href="https://github.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/github-weyumm-%2316ff47?style=flat"/></a>
-
-<a href="https://space.bilibili.com/347006675" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-weyumm-%2324f9a6?style=flat"/></a>
+<a href="https://github.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/github-weyumm-%2316ff47?style=flat"/></a>  <a href="https://space.bilibili.com/347006675" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-weyumm-%2324f9a6?style=flat"/></a>  <a href="https://gitee.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/gitee-码云-%2324eff9?style=flat"/></a>
 
 - 👋 Hi, I’m @weyumm
 - 👀 I’m interested in ...
