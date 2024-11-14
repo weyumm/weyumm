@@ -1,3 +1,7 @@
+<a href="https://github.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/github-weyumm-%2316ff47?style=flat"/></a>
+
+<a href="https://space.bilibili.com/347006675" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-weyumm-%2324f9a6?style=flat"/></a>
+
 - 👋 Hi, I’m @weyumm
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,7 +9,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/github-weyumm-%2316ff47?style=flat"/></a><a href="https://space.bilibili.com/347006675" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-weyumm-%2324f9a6?style=flat"/></a>
+
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10"/>
 <!---
