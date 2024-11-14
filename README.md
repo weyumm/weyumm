@@ -10,9 +10,8 @@
 - 😄 Pronouns: Nope
 - ⚡ Fun fact: Nope
 
-我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection) <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-        <img
-        align=center
+我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection) 
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center
         src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
         style="margin: 0 5px"/>
         <img
