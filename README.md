@@ -8,6 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
       <img
         align=center
