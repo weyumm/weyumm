@@ -28,7 +28,7 @@
       />
     </div>
 <div align=center>
-<img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" width="720" height="420"> 
+<img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" > 
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
