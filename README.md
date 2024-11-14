@@ -10,8 +10,7 @@
 - 😄 Pronouns: Nope
 - ⚡ Fun fact: Nope
 
-我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)      
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
+我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection) <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
       <img
         align=center
         src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
@@ -31,10 +30,9 @@
 <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%;"> 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
-
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
