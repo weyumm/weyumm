@@ -25,11 +25,7 @@
       />
     </div>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=default&hide_border=true" />
-  </picture>
+<div ><img  src="https://github-profile-trophy.vercel.app/?username=weyumm&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
