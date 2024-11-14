@@ -27,16 +27,11 @@
         style="margin: 0 5px"
       />
     </div>
-
-![YOLOv10行人检测]([images/Certificate of Acceptance of CDS_CH_0068.jpg](https://github.com/weyumm/weyumm/blob/main/images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg))
+<div align=center>
+<img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" width="720" height="420"> 
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=default&hide_border=true" />
-  </picture>
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
