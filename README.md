@@ -31,6 +31,8 @@
 </p>
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=10&layout=compact&custom_title=我的常用语言"/>
 
+<br clear="all"> <!-- 这里添加了一个清除浮动的换行 -->
+
 ## 我的项目📚
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
