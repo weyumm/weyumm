@@ -38,7 +38,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=weyumm&theme=default&hide_border=true" />
   </picture>
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=wyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
