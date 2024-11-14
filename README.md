@@ -35,9 +35,10 @@
       <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
 </p>
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=33&show_icons=true&hide=issues&theme=dracula&rank_icon=default"/>   <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&locale=cn&line_height=33&theme=&langs_count=10&layout=compact"/>
 <!---
 weyumm/weyumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
