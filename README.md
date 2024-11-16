@@ -17,8 +17,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=weyumm&theme=chartreuse-dark)
-
 ![weyumm](https://github-readme-activity-graph.vercel.app/graph?username=weyumm&theme=tokyo-night)
 ## 技术栈🛠️
 <!-- 
