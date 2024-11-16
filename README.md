@@ -65,7 +65,7 @@
 <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%;"> 
 </div>
 
-![weyumm](https://github-readme-activity-graph.vercel.app/graph?username=weyumm)
+![weyumm](https://github-readme-activity-graph.vercel.app/graph?username=weyumm&theme=tokyo-night)
 
 
 
