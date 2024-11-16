@@ -10,6 +10,8 @@
 - 😄 Pronouns: Nope
 - ⚡ Fun fact: Nope
   <img height="160px" align="left" src="https://github-immortality.vercel.app/api?username=weyumm&custom_title=我的修仙记录"/> <img height="160px" align="left" src="https://streak-stats.demolab.com/?user=weyumm&theme=chartreuse-dark&custom_title=我的连续打卡"/>
+  
+<br clear="all"> <!-- 这里添加了一个清除浮动的换行 -->
 ## 基本信息👤    
 大模型应用全栈开发&MATLAB数学建模&Python数据分析&简易前端
 
