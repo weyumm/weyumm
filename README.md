@@ -64,21 +64,16 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
       
-<div style="display: flex; align-items: center;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img src="https://github.com/weyumm/weyumm/blob/main/images/YOLOv10%E6%9E%B6%E6%9E%84%E5%9B%BE.png" style="width:45%; max-width: 450px;">
+<div style="display: flex; align-items: stretch;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="https://github.com/weyumm/weyumm/blob/main/images/YOLOv10%E6%9E%B6%E6%9E%84%E5%9B%BE.png" style="width: 100%; height: auto;">
   </div>
-  <div>
-    <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:45%; max-width: 450px;">
-  </div>
-</div>
-  <div>
-    <a href="https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date">
-      <img src="https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date" alt="Star History Chart">
-    </a>
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width: 100%; height: auto;">
   </div>
 </div>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date)](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
 
 
 
