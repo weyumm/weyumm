@@ -64,11 +64,16 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
       
-<div align="left">
-<img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%;"> 
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%; max-width: 500px;">
+  </div>
+  <div>
+    <a href="https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date">
+      <img src="https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date" alt="Star History Chart">
+    </a>
+  </div>
 </div>
-[![Star History Chart](https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date)](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
-
 
 
 
