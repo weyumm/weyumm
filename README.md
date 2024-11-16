@@ -50,6 +50,7 @@
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=dark&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=10&layout=compact&custom_title=我的常用语言"/> 
 
 <br clear="all"> <!-- 这里添加了一个清除浮动的换行 -->
+![3D模型](./profile-3d-contrib/profile-gitblock.svg)
 
 ## 我的项目📚
 
