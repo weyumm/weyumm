@@ -9,9 +9,12 @@
 - 📫 How to reach me ：weyumm.github.io
 - 😄 Pronouns: Nope
 - ⚡ Fun fact: Nope
-![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
+
+![Weyumm's GitHub stats](https://github-immortality.vercel.app/api?username=weyumm)
 ## 基本信息👤    
 大模型应用全栈开发&MATLAB数学建模&Python数据分析&简易前端
+
+![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
 
 ![weyumm](https://github-readme-activity-graph.vercel.app/graph?username=weyumm&theme=tokyo-night)
 ## 技术栈🛠️
