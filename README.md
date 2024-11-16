@@ -74,7 +74,7 @@
   </div>
 </div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date)](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
+[![Star History Chart]](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
 
 
 
