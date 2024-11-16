@@ -29,6 +29,7 @@
       <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Scratch-3C873A?style=flat-square&logo=Scratch&logoColor=white"></a>&emsp;
       <!-- 后端和数据库 -->
       <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
@@ -53,7 +54,7 @@
   </a>
 </div>
 
-![贪吃蛇](https://github.com/weyumm/weyumm/blob/output/github-contribution-grid-snake.svg)
+![贪吃蛇](https://github.com/weyumm/weyumm/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px"><img align=center src="https://img.shields.io/github/stars/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/watchers/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"" style="margin: 0 5px"/><img align=center src="https://img.shields.io/github/forks/weyumm/YOLOv10-Pedestrian-Detection?style=social&logoColor=%23ff7116&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/></div>
 我的代表项目：[YOLOv10行人检测项目](https://github.com/weyumm/YOLOv10-Pedestrian-Detection)  
