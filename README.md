@@ -21,35 +21,25 @@
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
-  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-</div>
 <p align="left"> 
       &emsp;&emsp;&emsp;
       <!-- 前端 -->
       <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"></a>&emsp;
       <!-- 后端和数据库 -->
       <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"></a>&emsp;
 </p>
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=dark&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=10&layout=compact&custom_title=我的常用语言"/>
 
