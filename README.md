@@ -73,10 +73,14 @@
     <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width: 100%; height: auto;">
   </div>
 </div>
-
-[![Star History Chart]](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
-
-
+<br clear="all"> <!-- 这里添加了一个清除浮动的换行 -->
+<div style="display: flex; align-items: center;">
+  <div>
+    <a href="https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date">
+      <img src="https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date" alt="Star History Chart">
+    </a>
+  </div>
+</div>
 
 
 
