@@ -48,7 +48,7 @@
   <a href=""><img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"></a>
   <a href=""><img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"></a>
 </p>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=dark&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=10&layout=compact&custom_title=我的常用语言"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=weyumm&locale=cn&line_height=21&show_icons=true&theme=dark&rank_icon=default&include_all_commits=true&custom_title=我的统计数据"/>  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyumm&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=10&layout=compact&custom_title=我的常用语言"/>     <img height="160px" align="left" src="https://streak-stats.demolab.com/?user=weyumm&theme=chartreuse-dark&custom_title=我的连续打卡"/>
 
 <br clear="all"> <!-- 这里添加了一个清除浮动的换行 -->
 
