@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=原神,启动！星穹铁道,启动！绝区零,启动！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=原神,启动！崩坏三,启动！绝区零,启动！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
