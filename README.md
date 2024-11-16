@@ -16,6 +16,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg)
 
 ## 技术栈🛠️
+ <img src="https://img.shields.io/badge/-Scratch-f6da1c?style=flat&logo=scratch&logoColor=white">
 <p align="left"> 
       &emsp;&emsp;&emsp;
       <!-- 前端 -->
