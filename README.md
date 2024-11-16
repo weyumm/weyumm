@@ -67,8 +67,6 @@
 <div align="left">
 <img src="images/Certificate%20of%20Acceptance%20of%20CDS_CH_0068.jpg" style="width:50%;"> 
 </div>
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=weyumm/YOLOv10-Pedestrian-Detection,weyumm/-Mathematical-Modeling-Awareness-Guide-,weyumm/sorting-system-LLMs,weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&type=Date)](https://star-history.com/#weyumm/YOLOv10-Pedestrian-Detection&weyumm/-Mathematical-Modeling-Awareness-Guide-&weyumm/sorting-system-LLMs&weyumm/Tongji-Automobile-College-Sophomore-Course-Materials&Date)
 
 
